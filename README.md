@@ -150,3 +150,4 @@ npm format
 ├── gatsby-config.js # Plugin loading and configuration
 └── gatsby-node.js # Generate posts/tags and modify webpack
 ```
+# gatsby-v2-tutorial-starter
