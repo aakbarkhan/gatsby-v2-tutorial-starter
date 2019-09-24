@@ -2,9 +2,9 @@
 path: "/post-seven"
 cover: "./inside.jpg"
 date: "2019-09-24"
-title: "Post Number Eight"
+title: "Post Number Seven"
 published: true
-tags: ['test', 'webpack', 'other']
+tags: ['test', 'other']
 ---
 Loream ipsum and lots of other stuff willl come into play got this website. Of yards twice any leaving noone in the schemes the target. The unrecognisable. Usual. Competitive that, good a the contact target a trust, stairs was my approved decelerate point anywhere what recommended. Help close has do he so stitching had for is the out box times has sisters select out.
 
