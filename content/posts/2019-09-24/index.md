@@ -1,6 +1,6 @@
 ---
 path: "/post-seven"
-cover: "./inside.jpg"
+cover: "./inside1.jpg"
 date: "2019-09-24"
 title: "Post Number Seven"
 published: true
