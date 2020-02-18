@@ -2,7 +2,7 @@
 path: "/post-two"
 cover: "./speed.jpg"
 date: "2018-10-16"
-title: "Post Number Two"
+title: "Class VII"
 published: true
 tags: ['test', 'webpack', 'other']
 ---
