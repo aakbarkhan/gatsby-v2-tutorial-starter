@@ -10,9 +10,11 @@ const About = center => (
     <Header title="About Page">Gatsby Tutorial Starter</Header>
     <Container center={center}>
       <h3>
-        If you would like to build this site completely from scratch, you can
-        read the guide{' '}
-        <a href="https://justinformentin.com/gatsby-v2-guide">here.</a>
+        This is free online class for the student who can't afford to attain any tutions or any other form of study material.  
+        Aim: Save time and money. 
+        How ? 
+        Built up a student community. We encourage students to participate by asking questions and teaching or giving explainations to other students. We try out best to help students. Do not felt dishartend by comparing the methodlogy of the teachers. The aim of the studnets is to thinks and solve not just mugging up the concepts. Students should repeteadly pracetice what they learn. This is completely free. If any teachers or mantors want to help they can reach through whatsapp numbers-  1234567890  or {' '}
+        <a href="https://gatsby-tutorial-starter.netlify.com/">here.</a>
       </h3>
     </Container>
   </Layout>
