@@ -1,8 +1,8 @@
 ---
 path: "/post-four"
 cover: "../2018-10-17/finance.jpg"
-date: "2018-10-18"
-title: "Post Number Four"
+date: "2020-02-18"
+title: "Class IX"
 tags: ['gatsby', 'other']
 published: true
 ---

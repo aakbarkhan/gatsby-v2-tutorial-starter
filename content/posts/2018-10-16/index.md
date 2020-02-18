@@ -1,7 +1,7 @@
 ---
 path: "/post-two"
 cover: "./speed.jpg"
-date: "2018-10-16"
+date: "2020-02-18"
 title: "Class VII"
 published: true
 tags: ['test', 'webpack', 'other']

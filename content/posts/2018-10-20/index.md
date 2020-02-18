@@ -1,8 +1,8 @@
 ---
 path: "/post-six"
 cover: "../2018-10-16/speed.jpg"
-date: "2018-10-20"
-title: "Post Number Six"
+date: "2020-01-18"
+title: "Class X- Maths"
 tags: ['gatsby', 'tutorial']
 published: true
 ---
