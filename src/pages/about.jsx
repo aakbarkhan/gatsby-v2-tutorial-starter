@@ -6,8 +6,8 @@ import { Layout, Container } from 'layouts';
 
 const About = center => (
   <Layout>
-    <Helmet title={'About Page'} />
-    <Header title="About Page">freeAcademy</Header>
+    <Helmet title={'About'} />
+    <Header title="About">freeAcademy</Header>
     <Container center={center}>
       <h3>
         This is free online class for the student who can't afford to attain any tutions or any other form of study material.  
