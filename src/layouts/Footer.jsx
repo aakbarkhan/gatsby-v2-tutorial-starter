@@ -25,9 +25,9 @@ const Footer = () => (
   <Wrapper>
     <Text>
       <span>
-        free online Classes -{' '}
-        From class VI-X
-        <a href="aakbarkhan.github.io">Aku</a>
+        free online Classes from VI to X -{' '}
+        
+        <a href="aakbarkhan.github.io">By Aku</a>
       </span>
     </Text>
   </Wrapper>
