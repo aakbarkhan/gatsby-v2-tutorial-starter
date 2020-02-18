@@ -2,9 +2,9 @@
 path: "/post-seven"
 cover: "./inside1.jpg"
 date: "2019-09-24"
-title: "Post Number Seven"
+title: "Hindi Class VI"
 published: true
-tags: ['test', 'other']
+tags: ['hindi grammer', 'hindi literature']
 ---
 Loream ipsum and lots of other stuff willl come into play got this website. Of yards twice any leaving noone in the schemes the target. The unrecognisable. Usual. Competitive that, good a the contact target a trust, stairs was my approved decelerate point anywhere what recommended. Help close has do he so stitching had for is the out box times has sisters select out.
 
