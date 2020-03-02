@@ -2,7 +2,7 @@
 path: "/post-six"
 cover: "../2018-10-16/speed.jpg"
 date: "2020-01-18"
-title: "Class X- Maths"
+title: "Class X(Maths) "
 tags: ['gatsby', 'tutorial']
 published: true
 ---
